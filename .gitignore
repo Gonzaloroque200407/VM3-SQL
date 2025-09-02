@@ -1,0 +1,7 @@
+# Dumps grandes (opcional ignorar)
+dumps/*.sql
+
+# Temporários e SO
+*.log
+*.tmp
+.DS_Store
